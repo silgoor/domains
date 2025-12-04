@@ -39,6 +39,17 @@
 *telegram-cdn.org
 *usercontent.telegram.org
 
+# Telegram voice
+*webrtc.telegram.org
+*stun.telegram.org
+*turn.telegram.org
+*cdn.telegram.org
+*cdn*.telegram.org
+*cdn-*.telegram.org
+*core.telegram.org
+*api.telegram.org
+
+
 # Apple FaceTime iCloud AV Relay
 *facetime.apple.com
 *ess.apple.com
