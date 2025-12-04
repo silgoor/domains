@@ -49,6 +49,13 @@
 *core.telegram.org
 *api.telegram.org
 
+#telegram dc
+*dc1-1.telegram-cdn.org
+*dc2-1.telegram-cdn.org
+*dc3-1.telegram-cdn.org
+*dc4-1.telegram-cdn.org
+*dc5-1.telegram-cdn.org
+
 
 # Apple FaceTime iCloud AV Relay
 *facetime.apple.com
